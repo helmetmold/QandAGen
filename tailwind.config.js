@@ -14,8 +14,6 @@ export default {
         'CC-yellow': '#F4CA19',
         'CC-purple': '#B554E8'
       },
-
-
     },
   },
   plugins: [],
